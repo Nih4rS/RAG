@@ -1,0 +1,41 @@
+sporting_2025:
+  doc_hint: "2025 F1 Sporting Regulations"
+  pairs:
+    - q: "Which article covers licences?"
+      gold: "Article 4|Licences"
+    - q: "Where is 'Dead Heat' defined?"
+      gold: "Article 7|Dead heat"
+    - q: "Which article addresses car livery and competition numbers?"
+      gold: "Article 9|Car livery|Competition numbers"
+    - q: "Which articles outline organisation/officials/insurance?"
+      gold: "Article 12|Organisation|Article 15|Officials|Article 13|Insurance"
+    - q: "What higher-level document do the Sporting Regulations reference for overarching rules?"
+      gold: "International Sporting Code|FIA Code"
+
+technical_2025:
+  doc_hint: "2025 F1 Technical Regulations"
+  pairs:
+    - q: "What four documents together are called the 'Regulations'?"
+      gold: "International Sporting Code|Technical Regulations|Sporting Regulations|Financial Regulations"
+    - q: "Where is 'General Principles' found?"
+      gold: "Article 1|General Principles"
+    - q: "Which body approves regulation changes mentioned in the convention notes?"
+      gold: "WMSC|World Motor Sport Council"
+    - q: "What is the stated status line near the header?"
+      gold: "PUBLISHED ON 07 APRIL 2025|Issue 3"
+    - q: "What article number mentions 'dangerous construction' in the contents?"
+      gold: "1.3|Dangerous construction"
+
+appendix_l_2025:
+  doc_hint: "Appendix L (International Sporting Code)"
+  pairs:
+    - q: "What topics does Appendix L cover?"
+      gold: "Drivers’ licences|medical examinations|driver’s equipment|conduct"
+    - q: "What larger code is Appendix L part of?"
+      gold: "International Sporting Code"
+    - q: "What year is the Appendix L entry you’re using?"
+      gold: "2025"
+    - q: "Name one item likely specifying driver equipment."
+      gold: "helmet|overalls|gloves|FIA standard"
+    - q: "What section commonly governs driver conduct flags and discipline?"
+      gold: "conduct|behaviour|discipline|Appendix L"
